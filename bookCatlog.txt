@@ -1,0 +1,84 @@
+Id:"bk101"
+Book Title: XML Developer's Guide
+Author: Gambardella, Matthew
+Genre: Computer
+Publish Date: 2000-10-01
+Description: An in-depth look at creating applications with XML.
+
+Id:"bk102"
+Book Title: Midnight Rain
+Author: Ralls, Kim
+Genre: Fantasy
+Publish Date: 2000-12-16
+Description: A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.
+
+Id:"bk103"
+Book Title: Maeve Ascendant
+Author: Corets, Eva
+Genre: Fantasy
+Publish Date: 2000-11-17
+Description: After the collapse of a nanotechnology society in England, the young survivors lay the foundation for a new society.
+
+Id:"bk104"
+Book Title: Oberon's Legacy
+Author: Corets, Eva
+Genre: Fantasy
+Publish Date: 2001-03-10
+Description: In post-apocalypse England, the mysterious agent known only as Oberon helps to create a new life for the inhabitants of London. Sequel to Maeve Ascendant.
+
+Id:"bk105"
+Book Title: The Sundered Grail
+Author: Corets, Eva
+Genre: Fantasy
+Publish Date: 2001-09-10
+Description: The two daughters of Maeve, half-sisters, battle one another for control of England. Sequel to Oberon's Legacy.
+
+Id:"bk106"
+Book Title: Lover Birds
+Author: Randall, Cynthia
+Genre: Romance
+Publish Date: 2000-09-02
+Description: When Carla meets Paul at an ornithology conference, tempers fly as feathers get ruffled.
+
+Id:"bk107"
+Book Title: Splish Splash
+Author: Thurman, Paula
+Genre: Romance
+Publish Date: 2000-11-02
+Description: A deep sea diver finds true love twenty thousand leagues beneath the sea.
+
+Id:"bk108"
+Book Title: Creepy Crawlies
+Author: Knorr, Stefan
+Genre: Horror
+Publish Date: 2000-12-06
+Description: An anthology of horror stories about roaches, centipedes, scorpions  and other insects.
+
+Id:"bk109"
+Book Title: Paradox Lost
+Author: Kress, Peter
+Genre: Science Fiction
+Publish Date: 2000-11-02
+Description: After an inadvertant trip through a Heisenberg Uncertainty Device, James Salway discovers the problems of being quantum.
+
+Id:"bk110"
+Book Title: Microsoft .NET: The Programming Bible
+Author: O'Brien, Tim
+Genre: Computer
+Publish Date: 2000-12-09
+Description: Microsoft's .NET initiative is explored in detail in this deep programmer's reference.
+
+Id:"bk111"
+Book Title: MSXML3: A Comprehensive Guide
+Author: O'Brien, Tim
+Genre: Computer
+Publish Date: 2000-12-01
+Description: The Microsoft MSXML3 parser is covered in detail, with attention to XML DOM interfaces, XSLT processing, SAX and more.
+
+Id:"bk112"
+Book Title: Visual Studio 7: A Comprehensive Guide
+Author: Galos, Mike
+Genre: Computer
+Publish Date: 2001-04-16
+Description: Microsoft Visual Studio 7 is explored in depth, looking at how Visual Basic, Visual C++, C#, and ASP+ are integrated into a comprehensive development environment.
+
